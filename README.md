@@ -19,6 +19,7 @@ A. branching, pushing it to Github, and  merging with master.
 6. remove HEAD marks from conflicted files and keep the merged code.
 7. git commit -a -m "final merge of branch b1 with masters" 
 8. git push origin
+9. git diff master..b1
 
 Unstaging from commit history
 git reset HEAD <filename>
