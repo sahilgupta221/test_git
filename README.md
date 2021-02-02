@@ -29,19 +29,17 @@ git checkout -- s1
 
 Putting head to some commit point in history
 git checkout <commit hash value 5 digits>
-sg5414Today at 2:06 PM
 Pushing local git repository to github:
 https://www.softwarelab.it/2018/10/12/adding-an-existing-project-to-github-using-the-command-line/
 
 You can create a local repository and work in it. (branching etc.)
 But to provide git repo to other you need to push it to Github.
-sg5414Today at 2:26 PM
 CMD for pushing changes of a branch:
 git push origin b1
 
 Checking out specific branch (git clone -b <branchname> URL)
 https://www.freecodecamp.org/news/git-clone-branch-how-to-clone-a-specific-branch/
-sg5414Today at 3:00 PM
+
 Keeping branches upto date:
 https://stackoverflow.com/questions/20101994/git-pull-from-master-into-the-development-branch
 
