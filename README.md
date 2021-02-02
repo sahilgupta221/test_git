@@ -10,6 +10,7 @@ Important GIT tutorials:
 
 Common commands:
 A. branching, pushing it to Github, and  merging with master.
+
 0. alias graph="git log --all --decorate --oneline --graph"
 1. git branch b1
 2. git commit -a -m "some changes in b1"
